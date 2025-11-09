@@ -49,9 +49,4 @@ I architect with OOP and intent.
     Email: <a href="mailto:pyrz.tech@gmail.com" style="color:#60a5fa;text-decoration:none;">pyrz.tech@gmail.com</a>
   </p>
 </div>
-
-<div align="center" style="color:#475569;font-size:0.8rem;margin-top:2rem;">
-  Last updated: November 09, 2025
-</div>
-
 </div>
