@@ -23,21 +23,9 @@
 |--------|-------|
 | **Language** | Python |
 | **Framework** | Django |
-| **ML/AI** | PyTorch, Scikit-learn, MLflow |
+| **ML/AI** | PyTorch, MLflow |
 | **Architecture** | OOP, Clean Code, Scalable Design |
 | **Performance** | Async, Caching, Profiling |
-
----
-
-## Key Projects <a name="projects"></a>
-
-| Project | Outcome |
-|---------|---------|
-| **AI Analytics Engine** | 3× faster inference, 99.9% uptime |
-| **Django + ML Service** | 40% latency reduction |
-| **OCR Pipeline** | 10k images/hour, 97% accuracy |
-
-> Full source: [GitHub](https://github.com/PyRz-Tech)
 
 ---
 
