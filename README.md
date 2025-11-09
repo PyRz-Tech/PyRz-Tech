@@ -33,8 +33,8 @@
 
 ```
 I don’t scatter effort.
-I don’t chase trends.
-I don’t write throwaway code.
+I care about trends.
+But I don’t write throwaway code.
 
 I build for the long term.
 I write for performance.
