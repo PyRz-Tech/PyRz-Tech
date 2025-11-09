@@ -6,7 +6,7 @@
 
 ---
 
-### [GitHub](https://github.com/PyRz-Tech) • [LinkedIn]([linkedin.com/in/pyrz-tech](https://www.linkedin.com/in/pyrz-tech/) • [Contact](mailto:pyrz.tech@gmail.com)
+### [GitHub](https://github.com/PyRz-Tech) • [LinkedIn]([linkedin.com/in/pyrz-tech](https://www.linkedin.com/in/pyrz-tech/]) • [Contact](mailto:pyrz.tech@gmail.com)
 
 ---
 
