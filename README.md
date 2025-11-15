@@ -23,7 +23,7 @@
 |--------|-------|
 | **Language** | Python |
 | **Framework** | Django |
-| **ML/AI** | PyTorch, MLflow |
+| **ML/AI** | PyTorch, MLflow, OpenCV |
 | **Architecture** | OOP, Clean Code, Scalable Design |
 | **Performance** | Async, Caching, Profiling |
 
