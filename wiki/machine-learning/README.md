@@ -2,11 +2,13 @@
 Collection of in-depth articles, notes, experiments & advanced techniques
 
 
-**Articles & Notes**
+## Articles & Deep Dives
 
-| Title | Description | Last Update |
-|------|-------------|-------------|
-| ... | ... | ... |
+| Category             | Title                                                | Description                                                                                       | Links                                                                 |
+|----------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| ... | ... | ... | ... |
+
+
 
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
 [![works](https://img.shields.io/badge/works-machine_learning_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/machine-learning/README.md)
