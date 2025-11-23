@@ -9,6 +9,8 @@ Collection of in-depth articles, notes, experiments & advanced techniques
 | CV | **140 FPS Real-Time Face Landmark App** | YOLOv9 + MediaPipe • Modular • No GPU | <a href="https://github.com/PyRz-Tech/face-detector-toturial/blob/main/README.md"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a>&nbsp;<a href="https://www.linkedin.com/posts/pyrz-tech_opencv-opencv-oop-activity-7395252305954045953-5Yhy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_B5hMBKfqTUObYnoc_kycaeLVdp8j_U2w"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a>&nbsp;<a href="https://dev.to/mohammadreza_mahdian_3841/how-i-built-a-140-fps-real-time-face-landmark-app-with-just-yolov9-mediapipe-5-part-series-mnf"><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> |
 
 
+
+---
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
 [![works](https://img.shields.io/badge/works-computer_vision_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/computer-vision/README.md)
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
