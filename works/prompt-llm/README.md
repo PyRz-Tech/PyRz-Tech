@@ -10,5 +10,5 @@ Prompt & LLM tools: my prompting attempts and production-friendly integrations
 
 
 <!--[![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes_machine_learning-28a745?style=flat&logo=book&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/wiki/django-backend)-->
-[![works](https://img.shields.io/badge/works-projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/works)
+[![works](https://img.shields.io/badge/works-projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/works#readme)
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
