@@ -5,7 +5,7 @@ Real-time vision systems — production-grade and research
 
 | Project                | Repository                                                                                                              | One-liner                              |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| Modular Face Detector  | [![GitHub](https://img.shields.io/badge/modular__face__detector-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/modular-face-detector) | YOLOv9 + MediaPipe, zero-copy, 120+ FPS |
+| Modular Face Detector  | [![GitHub](https://img.shields.io/badge/?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/modular-face-detector) | YOLOv9 + MediaPipe, zero-copy, 120+ FPS |
 
 
 
