@@ -6,7 +6,9 @@ Collection of in-depth articles, notes, experiments & advanced techniques
 
 | Category            | Title                                              | Description                                                                 | Links                                      |
 |---------------------|----------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|
-| ... | ... | ... | <a href="https://github.com/PyRz-Tech/modular-face-detector"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a> <a href="https://www.linkedin.com/posts/pyrz_xxx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a> <a href="https://dev.to/pyrz/real-time-face-detector"><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> |
+| ... | ... | ... |
+<a href="https://github.com/PyRz-Tech/modular-face-detector"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a> <a href="https://www.linkedin.com/posts/pyrz_xxx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a> <a href="https://dev.to/pyrz/real-time-face-detector"><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> 
+|
 
 
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
