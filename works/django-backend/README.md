@@ -5,7 +5,7 @@ Django: my backend attempts and production-friendly web applications
 
 | Project                | Repository                                                                                                              | One-liner                              |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| TodoList Pro | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/todolist) | Auth-Ready Django Todo + Project & Task Management + Clean UI |
+| TodoList  | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/todolist) | Auth-Ready Django Todo + Project & Task Management + Clean UI |
 | TradeX | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/TradeX) | Real-Time Stock Tracker + Alpha Vantage + Pandas + Live Charts |
 
 
