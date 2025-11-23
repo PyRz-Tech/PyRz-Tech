@@ -1,4 +1,4 @@
-# wiki/ → Articles & Notes
+# Articles & Notes
 
 Technical deep dives, tutorials and everything I learn that’s worth keeping.
 
