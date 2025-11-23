@@ -9,7 +9,7 @@ Real-time vision systems — production-grade and research
 | Tennis Tracking        | [![GitHub](https://img.shields.io/badge/tennis__tracking-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/tennis-tracking)         | Player & ball tracking in sports video  |
 | (new project)          | [![GitHub](https://img.shields.io/badge/coming__soon-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/)                              | (short description)                    |
 
-**Articles & Deep Dives** → 
+
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/wiki/computer-vision)
 [![works](https://img.shields.io/badge/works-projects-0366d6?style=flat&logo=folder&logoColor=white)](works)
-[![Profile](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
+[![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
