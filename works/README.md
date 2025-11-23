@@ -1,0 +1,14 @@
+# works/ → Production projects
+
+Runnable code I actually maintain. Each domain links to its own standalone repositories.
+
+**Navigation**
+
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-0366d6?style=flat&logo=opencv&logoColor=white)](computer-vision)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff6f00?style=flat&logo=tensorflow&logoColor=white)](machine-learning)
+[![Data Engineering](https://img.shields.io/badge/Data_Engineering-28a745?style=flat&logo=apache-airflow&logoColor=white)](data-engineering)
+[![Django / Backend](https://img.shields.io/badge/Django_&_Backend-092e20?style=flat&logo=django&logoColor=white)](django-backend)
+[![Python Tools](https://img.shields.io/badge/Python_Tools-3776ab?style=flat&logo=python&logoColor=white)](python-tools)
+[![Prompt & LLM](https://img.shields.io/badge/Prompt_&_LLM-7c3aed?style=flat&logo=openai&logoColor=white)](prompt-llm)
+
+All code is licensed under MIT
