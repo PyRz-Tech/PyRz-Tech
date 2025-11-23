@@ -1,4 +1,4 @@
-# works/ → Production projects
+# Production projects
 
 Runnable code I actually maintain. Each domain links to its own standalone repositories.
 
