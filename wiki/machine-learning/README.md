@@ -6,23 +6,11 @@ Collection of in-depth articles, notes, experiments & advanced techniques
 
 | Category            | Title                                              | Description                                                                 | Links                                      |
 |---------------------|----------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|
-| ... | ... | ... | <a href=""><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a>&nbsp;<a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a>&nbsp;<a href="https://colab.research.google.com/drive/1waX9XV6Uwzy5LeuAUy1R27FR-ctuueY7?usp=sharing"><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white&label=&labelColor=F9AB00&color=F9AB00&circle=true" height="22"></a>&nbsp;<a href=""><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> |
-
-
-[![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
-[![works](https://img.shields.io/badge/works-computer_vision_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/computer-vision/README.md)
-[![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
+| ML | **Simple Linear Regression – 10-Min Tutorial** | Beginner-friendly • scikit-learn • Live Colab (run instantly) | <a href=""><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a>&nbsp;<a href="https://www.linkedin.com/posts/pyrz-tech_simplereg-activity-7396633707262128128-5JPA?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_B5hMBKfqTUObYnoc_kycaeLVdp8j_U2w"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a>&nbsp;<a href="https://colab.research.google.com/drive/1waX9XV6Uwzy5LeuAUy1R27FR-ctuueY7?usp=sharing"><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white&label=&labelColor=F9AB00&color=F9AB00&circle=true" height="22"></a>&nbsp;<a href="https://dev.to/mohammadreza_mahdian_3841/simple-regression-linear-3gfe"><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> |
 
 
 
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
 [![works](https://img.shields.io/badge/works-machine_learning_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/machine-learning/README.md)
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
-
-
-<!--
-
-
-
--->
 
