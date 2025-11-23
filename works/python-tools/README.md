@@ -1,12 +1,13 @@
 # Machine Learning
-Django: my backend attempts and production-friendly web applications
+Python tools: my scripting attempts and production-friendly utilities
 
 **Projects** (standalone repositories)
 
 | Project                | Repository                                                                                                              | One-liner                              |
 |------------------------|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| To do list  | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/todolist) | Auth-Ready Django Todo + Project & Task Management + Clean UI |
-| Trade x | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/TradeX) | Real-Time Stock Tracker + Alpha Vantage + Pandas + Live Charts |
+| Persian Logger  | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/persian-logger-OOP-) | Farsi-First Logger + Full RTL + Jalali + Bidi + Smart Terminal Detection + PyPI |
+| Warehouse CLI | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/WarehouseCLI-OOP-) | Clean Architecture CLI + Plugin System + Pydantic + Rich UI + JSON Backend + PyPI |
+| Auto Sync Folder | [![GitHub](https://img.shields.io/badge/View_Repository-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech/auto_uploader) | Real-Time Drive Sync + Watchdog + Resumable OAuth Uploads + Offline-Aware + Fault-Tolerant |
 
 
 
