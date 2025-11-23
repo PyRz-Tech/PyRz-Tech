@@ -12,5 +12,7 @@ Real-time vision systems — production-grade and research
 **Articles & Deep Dives** →  
 [![Wiki](https://img.shields.io/badge/computer__vision__articles__%26__notes-28a745?style=flat&logo=book&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/wiki/computer-vision)
 
-[![Back to works](https://img.shields.io/badge/%E2%86%90_works__%26__projects-0366d6?style=flat&logo=folder&logoColor=white)](../works)  
-[![Back to Profile](https://img.shields.io/badge/%E2%86%90_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
+<br>
+
+[![← Works & Projects](https://img.shields.io/badge/%E2%86%90_Works__%26__Projects-0366d6?style=flat&logo=folder&logoColor=white)](../works)  
+[![← Profile](https://img.shields.io/badge/%E2%86%90_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
