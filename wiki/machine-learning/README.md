@@ -2,14 +2,27 @@
 Collection of in-depth articles, notes, experiments & advanced techniques
 
 
-## Articles & Deep Dives
+## Tutorials (Step-by-step + Full Code)
 
-| Category             | Title                                                | Description                                                                                       | Links                                                                 |
-|----------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| ... | ... | ... | ... |
+| Category            | Title                                              | Description                                                                 | Links                                      |
+|---------------------|----------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------|
+| ... | ... | ... | <a href=""><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&label=&labelColor=18181B&color=18181B&circle=true" height="22"></a>&nbsp;<a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=&labelColor=0A66C2&color=0A66C2&circle=true" height="22"></a>&nbsp;<a href="https://colab.research.google.com/drive/1waX9XV6Uwzy5LeuAUy1R27FR-ctuueY7?usp=sharing"><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white&label=&labelColor=F9AB00&color=F9AB00&circle=true" height="22"></a>&nbsp;<a href=""><img src="https://img.shields.io/badge/dev.to-000000?style=flat&logo=dev.to&logoColor=white&label=&labelColor=000&color=000&circle=true" height="22"></a> |
+
+
+[![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
+[![works](https://img.shields.io/badge/works-computer_vision_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/computer-vision/README.md)
+[![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
 
 
 
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](../README.md)
 [![works](https://img.shields.io/badge/works-machine_learning_projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/blob/main/works/machine-learning/README.md)
 [![Back to Profile](https://img.shields.io/badge/Back_to_Profile-000000?style=flat&logo=github&logoColor=white)](https://github.com/PyRz-Tech)
+
+
+<!--
+
+
+
+-->
+
