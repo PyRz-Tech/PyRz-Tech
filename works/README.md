@@ -1,8 +1,5 @@
-# Production projects
-
-Runnable code I actually maintain. Each domain links to its own standalone repositories.
-
-**Navigation**
+# Production Projects
+Runnable, maintained code — grouped by domain
 
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-0366d6?style=flat&logo=opencv&logoColor=white)](computer-vision/README.md)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-ff6f00?style=flat&logo=tensorflow&logoColor=white)](machine-learning/README.md)
