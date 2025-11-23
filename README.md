@@ -10,6 +10,6 @@ Building robust, long-lived systems.
 
 **Navigation**
 
-[![works](https://img.shields.io/badge/works-projects-0366d6?style=flat&logo=folder&logoColor=white)](https://github.com/PyRz-Tech/PyRz-Tech/tree/main/works#readme)
+[![works](https://img.shields.io/badge/works-projects-0366d6?style=flat&logo=folder&logoColor=white)](works/README.md)
 [![wiki](https://img.shields.io/badge/wiki-articles%20%26%20notes-28a745?style=flat&logo=book&logoColor=white)](wiki)
 [![license](https://img.shields.io/badge/license-MIT%20%2F%20CC%20BY--SA%204.0-3da35d?style=flat&logo=creative-commons&logoColor=white)](LICENSE)
